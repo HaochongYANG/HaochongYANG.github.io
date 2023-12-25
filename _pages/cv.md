@@ -32,7 +32,7 @@ redirect_from:
 
 ## 📖 Research Experience
 * May 2023 - Present: **ROP Research Student**
-  * *Social Cognitive Science Lab, University of Toronto*
+  * *SocialAI Research Group, University of Toronto*
   * Supervisor: Prof. William Cunningham
 
 * May - August 2023: **Research Assistant**
