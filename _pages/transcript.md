@@ -67,14 +67,6 @@ redirect_from:
         <td style="border: none;">C+</td>
     </tr>
     <tr>
-        <td style="border: none;">PHL245H1</td>
-        <td style="border: none;">Mod Symbolic Logic</td>
-        <td style="border: none;">0.5</td>
-        <td style="border: none;">93</td>
-        <td style="border: none;">A+</td>
-        <td style="border: none;">B-</td>
-    </tr>
-    <tr>
         <td style="border: none;">STA237H1</td>
         <td style="border: none;">Prob Stat Data I</td>
         <td style="border: none;">0.5</td>
@@ -93,7 +85,7 @@ redirect_from:
     <tr>
         <td style="border: none;">CSC148H1</td>
         <td style="border: none;">Intro to Comp Sci</td>
-        <td style="border: none;">0.50</td>
+        <td style="border: none;">0.5</td>
         <td style="border: none;">90</td>
         <td style="border: none;">A+</td>
         <td style="border: none;">B-</td>
@@ -101,7 +93,7 @@ redirect_from:
     <tr>
         <td style="border: none;">CSC165H1</td>
         <td style="border: none;">Math Expr&Rsng for Cs</td>
-        <td style="border: none;">0.50</td>
+        <td style="border: none;">0.5</td>
         <td style="border: none;">93</td>
         <td style="border: none;">A+</td>
         <td style="border: none;">C+</td>
@@ -109,7 +101,7 @@ redirect_from:
     <tr>
         <td style="border: none;">CSC207H1</td>
         <td style="border: none;">Software Design</td>
-        <td style="border: none;">0.50</td>
+        <td style="border: none;">0.5</td>
         <td style="border: none;">89</td>
         <td style="border: none;">A</td>
         <td style="border: none;"></td>
