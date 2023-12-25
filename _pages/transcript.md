@@ -9,16 +9,110 @@ redirect_from:
 
 {% include base_path %}
 
-| COURSE CODE | TITLE | WEIGHT | MARK | GRADE | COURSE AVERAGE |
-| CSC108H1 | Intro to Comp Prog | 0.5 | 93 | A+ | B |
-| MAT135H1 | Calculus I | 0.5 | 97 | A+ | B- |
-| MAT223H1 | Linear Algebra I | 0.5 | 93 | A+ | B |
-| MAT136H1 | Calculus II | 0.5 | 99 | A+ | B- |
-| STA130H1 | STAT Reasoning | 0.5 | 87 | A | B- |
-| MAT235Y1 | Multivariable Calculus | 1.0 | 97 | A+ | C+ |
-| PHL245H1 | Mod Symbolic Logic | 0.5 | 93 | A+ | B- |
-| STA237H1 | Prob Stat Data I | 0.5 | 87 | A | C |
-| STA238H1 | Prob Stat Data II | 0.5 | 95 | A+ | B+ |
-| CSC148H1 | Intro to Comp Sci | 0.50 | 90 | A+ | B- |
-| CSC165H1 | Math Expr&Rsng for Cs | 0.50 | 93 | A+ | C+ |
-| CSC207H1 | Software Design | 0.50 | 89 | A |  |
+<table style="border-collapse: collapse; border: none;">
+    <tr>
+        <th style="border: none;">COURSE CODE</th>
+        <th style="border: none;">TITLE</th>
+        <th style="border: none;">WEIGHT</th>
+        <th style="border: none;">MARK</th>
+        <th style="border: none;">GRADE</th>
+        <th style="border: none;">COURSE AVERAGE</th>
+    </tr>
+    <tr>
+        <td style="border: none;">CSC108H1</td>
+        <td style="border: none;">Intro to Comp Prog</td>
+        <td style="border: none;">0.5</td>
+        <td style="border: none;">93</td>
+        <td style="border: none;">A+</td>
+        <td style="border: none;">B</td>
+    </tr>
+    <tr>
+        <td style="border: none;">MAT135H1</td>
+        <td style="border: none;">Calculus I</td>
+        <td style="border: none;">0.5</td>
+        <td style="border: none;">97</td>
+        <td style="border: none;">A+</td>
+        <td style="border: none;">B-</td>
+    </tr>
+    <tr>
+        <td style="border: none;">MAT223H1</td>
+        <td style="border: none;">Linear Algebra I</td>
+        <td style="border: none;">0.5</td>
+        <td style="border: none;">93</td>
+        <td style="border: none;">A+</td>
+        <td style="border: none;">B</td>
+    </tr>
+    <tr>
+        <td style="border: none;">MAT136H1</td>
+        <td style="border: none;">Calculus II</td>
+        <td style="border: none;">0.5</td>
+        <td style="border: none;">99</td>
+        <td style="border: none;">A+</td>
+        <td style="border: none;">B-</td>
+    </tr>
+    <tr>
+        <td style="border: none;">STA130H1</td>
+        <td style="border: none;">STAT Reasoning</td>
+        <td style="border: none;">0.5</td>
+        <td style="border: none;">87</td>
+        <td style="border: none;">A</td>
+        <td style="border: none;">B-</td>
+    </tr>
+    <tr>
+        <td style="border: none;">MAT235Y1</td>
+        <td style="border: none;">Multivariable Calculus</td>
+        <td style="border: none;">1.0</td>
+        <td style="border: none;">97</td>
+        <td style="border: none;">A+</td>
+        <td style="border: none;">C+</td>
+    </tr>
+    <tr>
+        <td style="border: none;">PHL245H1</td>
+        <td style="border: none;">Mod Symbolic Logic</td>
+        <td style="border: none;">0.5</td>
+        <td style="border: none;">93</td>
+        <td style="border: none;">A+</td>
+        <td style="border: none;">B-</td>
+    </tr>
+    <tr>
+        <td style="border: none;">STA237H1</td>
+        <td style="border: none;">Prob Stat Data I</td>
+        <td style="border: none;">0.5</td>
+        <td style="border: none;">87</td>
+        <td style="border: none;">A</td>
+        <td style="border: none;">C</td>
+    </tr>
+    <tr>
+        <td style="border: none;">STA238H1</td>
+        <td style="border: none;">Prob Stat Data II</td>
+        <td style="border: none;">0.5</td>
+        <td style="border: none;">95</td>
+        <td style="border: none;">A+</td>
+        <td style="border: none;">B+</td>
+    </tr>
+    <tr>
+        <td style="border: none;">CSC148H1</td>
+        <td style="border: none;">Intro to Comp Sci</td>
+        <td style="border: none;">0.50</td>
+        <td style="border: none;">90</td>
+        <td style="border: none;">A+</td>
+        <td style="border: none;">B-</td>
+    </tr>
+    <tr>
+        <td style="border: none;">CSC165H1</td>
+        <td style="border: none;">Math Expr&Rsng for Cs</td>
+        <td style="border: none;">0.50</td>
+        <td style="border: none;">93</td>
+        <td style="border: none;">A+</td>
+        <td style="border: none;">C+</td>
+    </tr>
+    <tr>
+        <td style="border: none;">CSC207H1</td>
+        <td style="border: none;">Software Design</td>
+        <td style="border: none;">0.50</td>
+        <td style="border: none;">89</td>
+        <td style="border: none;">A</td>
+        <td style="border: none;"></td>
+    </tr>
+</table>
+
