@@ -104,7 +104,7 @@ redirect_from:
         <td style="border: none;">0.5</td>
         <td style="border: none;">89</td>
         <td style="border: none;">A</td>
-        <td style="border: none;"></td>
+        <td style="border: none;">NA</td>
     </tr>
 </table>
 
