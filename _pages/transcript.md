@@ -106,5 +106,13 @@ redirect_from:
         <td style="border: none;">A</td>
         <td style="border: none;">NA</td>
     </tr>
+    <tr>
+        <td style="border: none;">STA304H1</td>
+        <td style="border: none;">Survey Sam & Obs Data</td>
+        <td style="border: none;">0.5</td>
+        <td style="border: none;">96</td>
+        <td style="border: none;">A+</td>
+        <td style="border: none;">NA</td>
+    </tr>
 </table>
 
