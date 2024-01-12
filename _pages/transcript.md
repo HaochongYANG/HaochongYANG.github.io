@@ -114,5 +114,22 @@ redirect_from:
         <td style="border: none;">A+</td>
         <td style="border: none;">NA</td>
     </tr>
+    <tr>
+        <td style="border: none;">STA302H1</td>
+        <td style="border: none;">Meth Data Analysis</td>
+        <td style="border: none;">0.5</td>
+        <td style="border: none;">91</td>
+        <td style="border: none;">A+</td>
+        <td style="border: none;">NA</td>
+    </tr>
+    <tr>
+        <td style="border: none;">CSC236H1</td>
+        <td style="border: none;">Intro to Theory Comp</td>
+        <td style="border: none;">0.5</td>
+        <td style="border: none;">87</td>
+        <td style="border: none;">A</td>
+        <td style="border: none;">NA</td>
+    </tr>
+    
 </table>
 
