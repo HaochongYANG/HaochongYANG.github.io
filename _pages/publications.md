@@ -13,8 +13,6 @@ author_profile: true
 
 {% for publication in site.publications %}
   <div class="publication-entry">
-    <!-- Title without hyperlink -->
-    <h3>{{ publication.title }}</h3>
     <!-- Citation as plain text -->
     <p>{{ publication.citation }}</p>
   </div>
