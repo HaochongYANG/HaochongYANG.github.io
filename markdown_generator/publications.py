@@ -5,7 +5,7 @@ import pandas as pd
 publications = pd.read_csv('publications.tsv', sep='\t')
 
 # Path to markdown files
-markdown_path = './_portfolio/'
+markdown_path = './_publication/'
 
 # Generate markdown files for each publication
 for index, row in publications.iterrows():
