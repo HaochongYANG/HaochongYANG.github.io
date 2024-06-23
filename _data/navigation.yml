@@ -22,7 +22,7 @@ main:
     url: /research/
     
   - title: "Resume"
-    url: /files/resume.pdf
+    url: https://drive.google.com/file/d/1rviRIr-uGPv6HbrLUIk0Hqimgtmpl5ui/view?usp=sharing
   
   # - title: "Transcript"
   #   url: /transcript/
