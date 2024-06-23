@@ -11,6 +11,11 @@ author_profile: true
 
 {% include base_path %}
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
+{% for publication in site.publications %}
+  <div class="publication-entry">
+    <!-- Title without hyperlink -->
+    <h3>{{ publication.title }}</h3>
+    <!-- Citation as plain text -->
+    <p>{{ publication.citation }}</p>
+  </div>
 {% endfor %}
