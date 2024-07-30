@@ -11,7 +11,7 @@ redirect_from:
 # Heterogeneity of single-cell Hi-C DNA data Analysis
 **March 2024 - Present, University of Toronto, Toronto, Canada**
 
-![Single Cell Analysis](/images/singlecell.png)
+<img src="/images/singlecell.png" width="800" />
 
 *Description:* 
 *Supervisor:* Professor. Elena Tuzhilina
