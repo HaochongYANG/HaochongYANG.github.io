@@ -8,40 +8,50 @@ redirect_from:
 ---
 
 {% include base_path %}
-# Canonical correlation analysis as reduced rank regression
-**2023 – 2024, University of Toronto, Toronto, Canada**
+# Heterogeneity of single-cell Hi-C DNA data Analysis
+**March 2024 - Present, University of Toronto, Toronto, Canada**
 
-![Canonical correlation analysis](path_to_image)
+![Single Cell Analysis](images/singlecell.png)
 
-**Description:** The emergence of high-dimensional datasets presents significant challenges for traditional CCA frameworks, as traditional estimates of the canonical directions cease to be consistent. We propose a novel approach that attempts to narrow the gap between theory and practice in high-dimensional CCA in the case where one dataset is high-dimensional and the other is not. By incorporating concepts from reduced rank regression and sparse estimation, we are able to establish theoretical bounds for our procedure, ensuring statistical rigor while maintaining computational efficiency — making it an attractive option for the analysis of large datasets.
+*Description:* 
+*Supervisor:* Professor. Elena Tuzhilina
 
-**Collaborators:** Claire Donnat.
+---------------------------
 
-[Paper](#) [Slides](#)
+# Multi-agent LLM for Mental Health Diagnosis
+**April 2024 - August 2024, University of Toronto, Toronto, Canada**
 
----
+![LLM](path_to_image)
 
-# Multi-period forecasting
-**2021 – 2022, Stanford University, Stanford, USA**
+*Description:* 
+*Supervisors:* Bill Yuanhong Sun, Professor. Kang Lee 
 
-![Multi-period forecasting](path_to_image)
+---------------------------
 
-**Description:** Forecasting methodologies have always attracted a lot of attention and have become an especially hot topic since the beginning of the COVID-19 pandemic. In this paper, we consider the problem of multi-period forecasting that aims to predict several horizons at once. We propose a novel approach that forces the prediction to be “smooth” across horizons and apply it to two tasks: point estimation via regression and interval prediction via quantile regression. This methodology was developed for real-time distributed COVID-19 forecasting. This project was sponsored by Stanford Data Science Institute.
+# Efficient Multi-class Anxiety Prediction Approximation for Long Assessments
+**April 2024 - August 2024, University of Toronto, Toronto, Canada**
 
-**Collaborators:** Trevor Hastie, Rob Tibshirani, Delphi Research Group.
+![LongToShort](path_to_image)
 
-[Paper](#) [Slides](#) [Code](#)
+*Description:* 
+*Supervisors:* Bill Yuanhong Sun, Professor. Kang Lee 
 
----
+---------------------------
 
-# Weighted low rank matrix approximation
-**2020 – present, Stanford University, Stanford, USA**
+# Understanding Leaky Emotion in Social Psychology by Reinforcement Learning
+**September 2023 – May 2024, University of Toronto, Toronto, Canada**
 
 ![Weighted low rank matrix approximation](path_to_image)
 
-**Description:** Low-rank matrix approximation is one of the central concepts in machine learning, with applications in dimension reduction, de-noising, multivariate statistical methodology, and many more. A recent extension to LRMA is called low-rank matrix completion (LRMC). It solves the LRMA problem when some observations are missing and is especially useful for recommender systems. In this project, we consider an element-wise weighted generalization of LRMA. WLRMA has many applications. For example, it is ...
+*Description:*
+*Supervisors:* Professor William Cunningham
 
-[Paper](#) [Slides](#) [Code](#)
+---------------------------
 
+# Real-Life Data Modeling with the Modified Burr III Odds Ratio–G Distribution
+**September 2023 – May 2024, University of West Florida, Pensacola, USA**
 
+![BurrIII](path_to_image)
 
+*Description:* This research introduces the modified Burr III Odds Ratio–G distribution, a novel statistical model that integrates the odds ratio concept with the foundational Burr III distribution. The study focuses on a key subclass within this innovative framework, designated as the Burr III Scaled Inverse Odds Ratio–G (B-SIOR-G) distribution. By effectively combining the odds ratio with the Burr III distribution, this model enhances both flexibility and predictive accuracy. The paper delves into the mathematical and statistical properties of this distribution family, including hazard rate functions, quantile functions, moments, and more. Through rigorous simulations, the robustness of the B-SIOR-G model is affirmed. The model's flexibility and practicality are demonstrated through its application to four datasets, showcasing its superior efficacy over several well-established distributions.
+*Supervisors:* Professor Shusen Pu
