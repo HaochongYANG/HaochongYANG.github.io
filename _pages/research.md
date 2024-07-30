@@ -11,7 +11,7 @@ redirect_from:
 # Heterogeneity of single-cell Hi-C DNA data Analysis
 **March 2024 - Present, University of Toronto, Toronto, Canada**
 
-![Single Cell Analysis](images/singlecell.png)
+![Single Cell Analysis](singlecell.png)
 
 *Description:* 
 *Supervisor:* Professor. Elena Tuzhilina
@@ -28,7 +28,7 @@ redirect_from:
 
 ---------------------------
 
-# Efficient Multi-class Anxiety Prediction Approximation for Long Assessments
+# Multi-class Anxiety Prediction Approximation for Long Assessments
 **April 2024 - August 2024, University of Toronto, Toronto, Canada**
 
 ![LongToShort](path_to_image)
@@ -38,7 +38,7 @@ redirect_from:
 
 ---------------------------
 
-# Understanding Leaky Emotion in Social Psychology by Reinforcement Learning
+# Leaky Emotion in Social Psychology by Reinforcement Learning
 **September 2023 – May 2024, University of Toronto, Toronto, Canada**
 
 ![Weighted low rank matrix approximation](path_to_image)
