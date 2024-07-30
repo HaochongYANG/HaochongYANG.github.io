@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Rogers (Haochong) Yang"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Rogers Yang"
 description              : &description "personal description"
@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Rogers Yang"
+  name             : "Rogers (Haochong) Yang"
   avatar           : "profile.png"
-  bio              : "Fourth year Computer Science and Statistics student"
+  bio              : "4th Year Computer Science and Statistics Undergraduate"
   location         : "Toronto, ON, Canada"
   employer         : "University of Toronto"
   pubmed           : 
@@ -99,7 +99,7 @@ author:
   github           : "HaochongYANG"
   google_plus      :
   keybase          :
-  instagram        : "haochongyang2003"
+  instagram        : 
   impactstory      : 
   lastfm           :
   linkedin         : "haochong-yang"
