@@ -31,7 +31,7 @@ redirect_from: /research.html
 <h1>Multi-class Anxiety Prediction Approximation for Long Assessments</h1>
 <p><strong>April 2024 - August 2024, University of Toronto, Toronto, Canada</strong></p>
 
-<img src="../images/shap_summary.png" alt="shap" align="left" style="width: 175px; height: auto; margin-right: 20px;" />
+<img src="../images/shap_summary.png" alt="shap" align="left" style="width: 200px; height: auto; margin-right: 20px;" />
 
 <p><strong>Description:</strong> This project aims to create a multi-class anxiety prediction model to approximate long assessments.</p>
 <p><strong>Supervisors:</strong> Bill Yuanhong Sun, Professor. Kang Lee</p>
@@ -41,7 +41,7 @@ redirect_from: /research.html
 <h1>Leaky Emotion in Social Psychology by Reinforcement Learning</h1>
 <p><strong>September 2023 – May 2024, University of Toronto, Toronto, Canada</strong></p>
 
-<img src="../images/gem.png" alt="Gem" align="left" style="width: 175px; height: auto; margin-right: 20px;" />
+<img src="../images/gem.png" alt="Gem" align="left" style="width: 200px; height: auto; margin-right: 20px;" />
 
 <p><strong>Description:</strong> This project researches how personal emotions affect other agents’ behavior in a social setting using reinforcement learning.</p>
 <p><strong>Supervisor:</strong> Professor. William Cunningham</p>
@@ -53,5 +53,5 @@ redirect_from: /research.html
 
 <img src="../images/burrIII.png" alt="BurrIII" align="left" style="width: 200px; height: auto; margin-right: 20px;" />
 
-<p><strong>Description:</strong> This research introduces the modified Burr III Odds Ratio–G distribution, a novel statistical model that integrates the odds ratio concept with the foundational Burr III distribution. The study focuses on a key subclass within this innovative framework, designated as the Burr III Scaled Inverse Odds Ratio–G (B-SIOR-G) distribution. By effectively combining the odds ratio with the Burr III distribution, this model enhances both flexibility and predictive accuracy. The paper delves into the mathematical and statistical properties of this distribution family, including hazard rate functions, quantile functions, moments, and more. Through rigorous simulations, the robustness of the B-SIOR-G model is affirmed. The model's flexibility and practicality are demonstrated through its application to four datasets, showcasing its superior efficacy over several well-established distributions.</p>
+<p><strong>Description:</strong> This research presents the modified Burr III Odds Ratio–G distribution, a novel statistical model that integrates the odds ratio with the Burr III distribution. Focusing on the Burr III Scaled Inverse Odds Ratio–G (B-SIOR-G) subclass, this model enhances flexibility and predictive accuracy. The study explores the mathematical and statistical properties of the distribution, including hazard rates, quantiles, and moments. Rigorous simulations confirm the robustness of the B-SIOR-G model, and its application to four datasets demonstrates its superior efficacy compared to established distributions.</p>
 <p><strong>Supervisor:</strong> Professor. Shusen Pu</p>
