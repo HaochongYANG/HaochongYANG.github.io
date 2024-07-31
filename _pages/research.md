@@ -31,11 +31,6 @@ redirect_from: /research.html
 <h2>Multi-class Anxiety Prediction Approximation for Long Assessments</h2>
 <p><em>April 2024 - August 2024, University of Toronto, Toronto, Canada</em></p>
 
-<img src="../images/shap_summary.png" alt="shap" align="left" style="width: 225px; height: auto; margin-right: 20px;" />
-
-<h2>Multi-class Anxiety Prediction Approximation for Long Assessments</h2>
-<p><em>April 2024 - August 2024, University of Toronto, Toronto, Canada</em></p>
-
 <div style="display: flex;">
     <img src="../images/shap_summary.png" alt="shap" align="left" style="width: 225px; height: auto; margin-right: 20px;" />
     <div>
