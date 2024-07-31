@@ -21,8 +21,10 @@ redirect_from: /research.html
 
 <img src="../images/llm.png" alt="Single Cell Hi-C" align="left" style="width: 175px; height: auto; margin-right: 20px;" />
 
-<p><strong>Description:</strong> This project focuses on the development of a multi-agent large language model (LLM) for mental health diagnosis.</p>
+<p><strong>Description:</strong> This project involves the development of a multi-agent framework using large language models (LLMs) to simulate a therapist's role in mental health diagnosis. The primary goal is to establish an AI-based framework that can effectively mimic a therapist by interacting with users and subsequently analyzing their responses to provide insights into their mental health. This dual-agent setup ensures a seamless user experience while leveraging advanced analytical capabilities to interpret user data accurately. My contributions to this project included working on both the backend and frontend development, as well as the prompt engineering for the models. The backend involved setting up the infrastructure for the LLMs and integrating them into the application. The frontend development focused on creating an intuitive and user-friendly interface for the chat interactions. Additionally, I crafted prompts that guide the LLM's responses and analyses effectively.
+
 <p><strong>Supervisors:</strong> Bill Yuanhong Sun, Professor Kang Lee</p>
+<a href="https://drive.google.com/file/d/1pGTPmJ7qZWFp33U70Gwz5icv3kAia4kr/view?usp=drive_link">Demo Video</a>
 
 <hr/>
 
