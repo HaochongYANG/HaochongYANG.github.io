@@ -10,8 +10,8 @@ redirect_from: /research.html
 <p><em>March 2024 - Present, University of Toronto, Toronto, Canada</em></p>
 <div style="display: flex;">
   <div style="position: relative; margin-right: 20px;">
-    <img id="staticGif" src="../images/rotating_cells.png" alt="Single Cell Hi-C" style="max-width: 225px; height: auto;" />
-    <img id="animatedGif" src="../images/rotating_cells.gif" alt="Single Cell Hi-C Animated" style="max-width: 225px; height: auto; display: none;" />
+    <img id="staticGif1" src="../images/rotating_cells.png" alt="Single Cell Hi-C" style="max-width: 225px; height: auto;" />
+    <img id="animatedGif1" src="../images/rotating_cells.gif" alt="Single Cell Hi-C Animated" style="max-width: 225px; height: auto; display: none;" />
   </div>
   <div>
     <p> This research focuses on the heterogeneity of single-cell Hi-C DNA data to explore the quantitative methods for classifying different types of single cells based on DNA Hi-C data and contact matrices. Large amount of data cleaning and transformation is performed on the original dataset, different methods of dimension reduction are applied, including Principle Component Analysis, t-SNE, UMAP, with clustering techniques such as K-Means performed on lower dimension representations.</p>
@@ -24,8 +24,8 @@ redirect_from: /research.html
 <p><em>April 2024 - August 2024, University of Toronto, Toronto, Canada</em></p>
 <div style="display: flex;">
   <div style="position: relative; margin-right: 20px;">
-    <img id="staticGif" src="../images/llm_score.png" alt="llm score" style="max-width: 225px; height: auto;" />
-    <img id="animatedGif" src="../images/llm_score.gif" alt="llm score Animated" style="max-width: 225px; height: auto; display: none;" />
+    <img id="staticGif2" src="../images/llm_score.png" alt="llm score" style="max-width: 225px; height: auto;" />
+    <img id="animatedGif2" src="../images/llm_score.gif" alt="llm score Animated" style="max-width: 225px; height: auto; display: none;" />
   </div>
   <div>
   <p> This project involves the development of a multi-agent framework using LLMs to simulate a therapist's role in mental health diagnosis. The goal is to establish a framework that can mimic a therapist by interacting with users and analyzing responses to provide insights into their mental health. My contributions to this project included working on both the backend and frontend development, as well as the prompt engineering for the models. I also conducted experiments to evaluate the performance of the models and the overall system.</p>
@@ -53,8 +53,8 @@ redirect_from: /research.html
 <p><em>September 2023 – May 2024, University of Toronto, Toronto, Canada</em></p>
 <div style="display: flex;">
   <div style="position: relative; margin-right: 20px;">
-    <img id="staticGif" src="../images/ani.png" alt="llm score" style="max-width: 225px; height: auto;" />
-    <img id="animatedGif" src="../images/ani.gif" alt="llm score Animated" style="max-width: 225px; height: auto; display: none;" />
+    <img id="staticGif3" src="../images/ani.png" alt="llm score" style="max-width: 225px; height: auto;" />
+    <img id="animatedGif3" src="../images/ani.gif" alt="llm score Animated" style="max-width: 225px; height: auto; display: none;" />
   </div>
   <div>
     <p> This project explores the impact of emotions on the behavior of agents in a social setting using reinforcement learning. The study employs a gaming environment where agents share information about the location of wolves to avoid predation. By fine-tuning the model, the research aims to show how leaked emotions through communication can enhance benefit among agents. Key tasks included designing visuals for the training process, optimizing game logic, and apply heatmaps to validate various social cognition theories.</p>
@@ -76,34 +76,25 @@ redirect_from: /research.html
 
 <script>
   document.addEventListener("DOMContentLoaded", function() {
-    const staticGif = document.getElementById("staticGif");
-    const animatedGif = document.getElementById("animatedGif");
+    const imagePairs = [
+      { static: 'staticGif1', animated: 'animatedGif1' },
+      { static: 'staticGif2', animated: 'animatedGif2' },
+      { static: 'staticGif3', animated: 'animatedGif3' }
+    ];
 
-    staticGif.addEventListener("mouseover", function() {
-      staticGif.style.display = "none";
-      animatedGif.style.display = "block";
-    });
+    imagePairs.forEach(pair => {
+      const staticGif = document.getElementById(pair.static);
+      const animatedGif = document.getElementById(pair.animated);
 
-    animatedGif.addEventListener("mouseout", function() {
-      animatedGif.style.display = "none";
-      staticGif.style.display = "block";
-    });
-  });
-</script>
+      staticGif.addEventListener("mouseover", function() {
+        staticGif.style.display = "none";
+        animatedGif.style.display = "block";
+      });
 
-<script>
-  document.addEventListener("DOMContentLoaded", function() {
-    const staticGif = document.getElementById("staticGif");
-    const animatedGif = document.getElementById("animatedGif");
-
-    staticGif.addEventListener("mouseover", function() {
-      staticGif.style.display = "none";
-      animatedGif.style.display = "block";
-    });
-
-    animatedGif.addEventListener("mouseout", function() {
-      animatedGif.style.display = "none";
-      staticGif.style.display = "block";
+      animatedGif.addEventListener("mouseout", function() {
+        animatedGif.style.display = "none";
+        staticGif.style.display = "block";
+      });
     });
   });
 </script>
