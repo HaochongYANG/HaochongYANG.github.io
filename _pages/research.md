@@ -61,5 +61,6 @@ redirect_from: /research.html
   <div>
     <p> This research presents the modified Burr III Odds Ratio–G distribution, a novel model that integrates odds ratio with Burr III distribution. Focusing on the Burr III Scaled Inverse Odds Ratio–G subclass, this model enhances flexibility and predictive accuracy. The study explores the mathematical properties of the distribution, including hazard rates, quantiles, and moments by proofs. Rigorous simulations confirm the robustness of the model, and its application to datasets demonstrates its efficacy compared to established distributions.</p>
     <p><em>Supervisor:</em> Professor. Shusen Pu</p>
+    <a href="https://www.mdpi.com/2830308">Paper</a>
   </div>
 <div>

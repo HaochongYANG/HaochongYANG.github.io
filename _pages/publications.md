@@ -3,17 +3,15 @@ layout: archive
 title: "Publications"
 permalink: /publications/
 author_profile: true
+redirect_from: /research/publications.html
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
+<h1>Publications</h1>
 
-{% include base_path %}
+<div class="publication-entry">
+    <h3><a href="https://www.mdpi.com/2075-1680/13/6/401">Enhanced Real-Life Data Modeling with the Modified Burr III Odds Ratio–G Distribution</a></h3>
+    <p>Yang, H.; Huang, M.; Chen, X.; He, Z.; Pu, S. Enhanced Real-Life Data Modeling with the Modified Burr III Odds Ratio–G Distribution. Axioms 2024, 13, 401. https://doi.org/10.3390/axioms13060401</p>
+</div>
 
-{% for publication in site.publications %}
-  <div class="publication-entry">
-    <!-- Citation as plain text -->
-    <p>{{ publication.citation }}</p>
-  </div>
-{% endfor %}
+<!-- Repeat for other publications -->
+
