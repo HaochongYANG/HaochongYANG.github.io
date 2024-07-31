@@ -31,11 +31,18 @@ redirect_from: /research.html
 <h2>Multi-class Anxiety Prediction Approximation for Long Assessments</h2>
 <p><em>April 2024 - August 2024, University of Toronto, Toronto, Canada</em></p>
 
-<div style="overflow: auto;">
+<img src="../images/shap_summary.png" alt="shap" align="left" style="width: 225px; height: auto; margin-right: 20px;" />
+
+<h2>Multi-class Anxiety Prediction Approximation for Long Assessments</h2>
+<p><em>April 2024 - August 2024, University of Toronto, Toronto, Canada</em></p>
+
+<div style="display: flex;">
     <img src="../images/shap_summary.png" alt="shap" align="left" style="width: 225px; height: auto; margin-right: 20px;" />
-    <p>This research introduces a novel approach for predicting multi-class anxiety levels through a machine learning framework designed to handle long assessments. We developed a model that shortens lengthy assessments while maintaining high accuracy. This approach demonstrated robust performance through validations, highlighting potentials for practical application in clinical and research settings. This study shows the importance of using machine learning models to enhance the efficiency and accuracy of mental health analysis.</p>
+    <div>
+        <p>This research introduces a novel approach for predicting multi-class anxiety levels through a machine learning framework designed to handle long assessments. We developed a model that shortens lengthy assessments while maintaining high accuracy. This approach demonstrated robust performance through validations, highlighting potentials for practical application in clinical and research settings. This study shows the importance of using machine learning models to enhance the efficiency and accuracy of mental health analysis.</p>
+        <p><em>Supervisors:</em> Bill Yuanhong Sun, Professor. Kang Lee</p>
+    </div>
 </div>
-<p><em>Supervisors:</em> Bill Yuanhong Sun, Professor. Kang Lee</p>
 
 <hr/>
 
@@ -44,7 +51,7 @@ redirect_from: /research.html
 
 <img src="../images/gem.png" alt="Gem" align="left" style="width: 225px; height: auto; margin-right: 20px;" />
 
-<p> This project explores the impact of emotions on the behavior of agents in a social setting using reinforcement learning. The study employs a gaming environment where agents share information about the location of wolves to avoid predation. By fine-tuning the model, the research aims to show how leaked emotions through communication can enhance benefit among agents. Key tasks included designing visuals for the training process, optimizing game logic, and apply heatmaps to validate social cognition theories.</p>
+<p> This project explores the impact of emotions on the behavior of agents in a social setting using reinforcement learning. The study employs a gaming environment where agents share information about the location of wolves to avoid predation. By fine-tuning the model, the research aims to show how leaked emotions through communication can enhance benefit among agents. Key tasks included designing visuals for the training process, optimizing game logic, and apply heatmaps to validate various social cognition theories.</p>
 <p><em>Supervisor:</em> Professor. William Cunningham</p>
 
 <hr/>
