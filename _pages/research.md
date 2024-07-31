@@ -8,9 +8,7 @@ redirect_from: /research.html
 
 # Heterogeneity of single-cell Hi-C DNA data Analysis
 **March 2024 - Present, University of Toronto, Toronto, Canada**
-
-<img src='../images/singlecell.png'>
-<img src='~/images/singlecell.png'>
+![SingleCell](../images/singlecell.png)
 
 
 *Description:* 
