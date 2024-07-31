@@ -20,44 +20,13 @@ redirect_from: /research.html
 </div>
 <hr/>
 
-<script>
-  document.addEventListener("DOMContentLoaded", function() {
-    const staticGif = document.getElementById("staticGif");
-    const animatedGif = document.getElementById("animatedGif");
-
-    staticGif.addEventListener("mouseover", function() {
-      staticGif.style.display = "none";
-      animatedGif.style.display = "block";
-    });
-
-    animatedGif.addEventListener("mouseout", function() {
-      animatedGif.style.display = "none";
-      staticGif.style.display = "block";
-    });
-  });
-</script>
-
-<script>
-  document.addEventListener("DOMContentLoaded", function() {
-    const staticGif = document.getElementById("staticGif");
-    const animatedGif = document.getElementById("animatedGif");
-
-    staticGif.addEventListener("mouseover", function() {
-      staticGif.style.display = "none";
-      animatedGif.style.display = "block";
-    });
-
-    animatedGif.addEventListener("mouseout", function() {
-      animatedGif.style.display = "none";
-      staticGif.style.display = "block";
-    });
-  });
-</script>
-
 <h2>Multi-agent LLM for Mental Health Diagnosis</h2>
 <p><em>April 2024 - August 2024, University of Toronto, Toronto, Canada</em></p>
 <div style="display: flex;">
-  <img src="../images/llm.png" alt="llm" align="left" style="width: 225px; height: 225px; margin-right: 20px;" />
+  <div style="position: relative; margin-right: 20px;">
+    <img id="staticGif" src="../images/llm_score.png" alt="llm score" style="max-width: 225px; height: auto;" />
+    <img id="animatedGif" src="../images/llm_score.gif" alt="llm score Animated" style="max-width: 225px; height: auto; display: none;" />
+  </div>
   <div>
   <p> This project involves the development of a multi-agent framework using LLMs to simulate a therapist's role in mental health diagnosis. The goal is to establish a framework that can mimic a therapist by interacting with users and analyzing responses to provide insights into their mental health. My contributions to this project included working on both the backend and frontend development, as well as the prompt engineering for the models. I also conducted experiments to evaluate the performance of the models and the overall system.</p>
 
@@ -66,6 +35,43 @@ redirect_from: /research.html
   </div>
 </div>
 <hr/>
+
+
+<script>
+  document.addEventListener("DOMContentLoaded", function() {
+    const staticGif = document.getElementById("staticGif");
+    const animatedGif = document.getElementById("animatedGif");
+
+    staticGif.addEventListener("mouseover", function() {
+      staticGif.style.display = "none";
+      animatedGif.style.display = "block";
+    });
+
+    animatedGif.addEventListener("mouseout", function() {
+      animatedGif.style.display = "none";
+      staticGif.style.display = "block";
+    });
+  });
+</script>
+
+<script>
+  document.addEventListener("DOMContentLoaded", function() {
+    const staticGif = document.getElementById("staticGif");
+    const animatedGif = document.getElementById("animatedGif");
+
+    staticGif.addEventListener("mouseover", function() {
+      staticGif.style.display = "none";
+      animatedGif.style.display = "block";
+    });
+
+    animatedGif.addEventListener("mouseout", function() {
+      animatedGif.style.display = "none";
+      staticGif.style.display = "block";
+    });
+  });
+</script>
+
+
 
 <h2>Multi-class Anxiety Prediction Approximation for Long Assessments</h2>
 <p><em>April 2024 - August 2024, University of Toronto, Toronto, Canada</em></p>
@@ -83,7 +89,11 @@ redirect_from: /research.html
 <h2>Leaky Emotion in Social Psychology by Reinforcement Learning</h2>
 <p><em>September 2023 – May 2024, University of Toronto, Toronto, Canada</em></p>
 <div style="display: flex;">
-  <img src="../images/gem.png" alt="Gem" align="left" style="width: 225px; height: 225px; margin-right: 20px;" />
+  <div style="position: relative; margin-right: 20px;">
+    <img id="staticGif" src="../images/ani.png" alt="llm score" style="max-width: 225px; height: auto;" />
+    <img id="animatedGif" src="../images/ani.gif" alt="llm score Animated" style="max-width: 225px; height: auto; display: none;" />
+  </div>
+  <div>
   <div>
     <p> This project explores the impact of emotions on the behavior of agents in a social setting using reinforcement learning. The study employs a gaming environment where agents share information about the location of wolves to avoid predation. By fine-tuning the model, the research aims to show how leaked emotions through communication can enhance benefit among agents. Key tasks included designing visuals for the training process, optimizing game logic, and apply heatmaps to validate various social cognition theories.</p>
     <p><em>Supervisor:</em> Professor. William Cunningham</p>
