@@ -9,7 +9,7 @@ redirect_from: /research.html
 <h1>Heterogeneity of single-cell Hi-C DNA data Analysis</h1>
 <p><strong>March 2024 - Present, University of Toronto, Toronto, Canada</strong></p>
 
-<img src="../images/singlecell.png" alt="Single Cell Hi-C" align="left" style="width: 150px; height: auto; margin-right: 20px;" />
+<img src="../images/singlecell1.png" alt="Single Cell Hi-C" align="left" style="width: 175px; height: auto; margin-right: 20px;" />
 
 <p><strong>Description:</strong> This research focuses on the heterogeneity of single-cell Hi-C DNA data to explore the quantitative methods for classifying single cells based on DNA Hi-C data and contact matrices. The study involves practicing statistical theories in dimension reduction, including PCA, t-SNE, and UMAP through proofs and coding.</p>
 <p><strong>Supervisor:</strong> Professor Elena Tuzhilina</p>
