@@ -33,7 +33,7 @@ redirect_from: /research.html
 
 <img src="../images/shap_summary.png" alt="shap" align="left" style="width: 200px; height: auto; margin-right: 20px;" />
 
-<p><strong>Description:</strong> This research introduces a novel approach for efficiently predicting multi-class anxiety levels through a machine learning framework designed to handle long assessments. We developed a model that effectively shortens traditional lengthy assessments while maintaining high accuracy in predicting anxiety levels. The proposed approach demonstrated robust performance through rigorous simulations and validation, highlighting its potential for practical application in clinical and research settings. This study underscores the importance of integrating sophisticated machine learning models to enhance the efficiency and accuracy of mental health assessments.</p>
+<p><strong>Description:</strong> This research introduces a novel approach for predicting multi-class anxiety levels through a machine learning framework designed to handle long assessments. We developed a model that shortens lengthy assessments while maintaining high accuracy. This approach demonstrated robust performance through validations, highlighting its potential for practical application in clinical and research settings. This study underscores the importance of integrating machine learning models to enhance the efficiency and accuracy of mental health analysis.</p>
 <p><strong>Supervisors:</strong> Bill Yuanhong Sun, Professor. Kang Lee</p>
 
 <hr/>
@@ -43,7 +43,7 @@ redirect_from: /research.html
 
 <img src="../images/gem.png" alt="Gem" align="left" style="width: 200px; height: auto; margin-right: 20px;" />
 
-<p><strong>Description:</strong> This project explores the impact of personal emotions on the behavior of other agents in a social setting using a reinforcement learning framework. The study employs a gaming environment where agents communicate and share information about the location of wolves to avoid predation. By fine-tuning the reinforcement learning environment and leveraging machine learning techniques, the research aims to demonstrate how leaked emotions through communication can enhance mutual benefit among agents. Key tasks included designing visualizations for the training process, optimizing game logic, and conducting statistical analysis on game data to validate various social cognition theories.</p>
+<p><strong>Description:</strong> This project explores the impact of emotions on the behavior of agents in a social setting using reinforcement learning. The study employs a gaming environment where agents share information about the location of wolves to avoid predation. By fine-tuning the model, the research aims to show how leaked emotions through communication can enhance mutual benefit among agents. Key tasks included designing visualizations for the training process, optimizing game logic, and apply heatmaps to validate various social cognition theories.</p>
 <p><strong>Supervisor:</strong> Professor. William Cunningham</p>
 
 <hr/>
@@ -53,5 +53,5 @@ redirect_from: /research.html
 
 <img src="../images/burrIII.png" alt="BurrIII" align="left" style="width: 200px; height: auto; margin-right: 20px;" />
 
-<p><strong>Description:</strong> This research presents the modified Burr III Odds Ratio–G distribution, a novel model that integrates the odds ratio with the Burr III distribution. Focusing on the Burr III Scaled Inverse Odds Ratio–G subclass, this model enhances flexibility and predictive accuracy. The study explores the mathematical properties of the distribution, including hazard rates, quantiles, and moments by proofs. Rigorous simulations confirm the robustness of the model, and its application to four datasets demonstrates its efficacy compared to established distributions.</p>
+<p><strong>Description:</strong> This research presents the modified Burr III Odds Ratio–G distribution, a novel model that integrates odds ratio with Burr III distribution. Focusing on the Burr III Scaled Inverse Odds Ratio–G subclass, this model enhances flexibility and predictive accuracy. The study explores the mathematical properties of the distribution, including hazard rates, quantiles, and moments by proofs. Rigorous simulations confirm the robustness of the model, and its application to datasets demonstrates its efficacy compared to established distributions.</p>
 <p><strong>Supervisor:</strong> Professor. Shusen Pu</p>
