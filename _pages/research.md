@@ -11,7 +11,7 @@ redirect_from: /research.html
 <div style="display: flex;">
   <div style="position: relative; margin-right: 20px;">
     <img id="staticGif" src="../images/rotating_cells.png" alt="Single Cell Hi-C" style="max-width: 225px; height: auto;" />
-    <img id="animatedGif" src="../images/rotating_cells.gif" alt="Single Cell Hi-C Animated" style="position: absolute; top: 0; left: 0; max-width: 225px; height: auto; display: none;" />
+    <img id="animatedGif" src="../images/rotating_cells.gif" alt="Single Cell Hi-C Animated" style="max-width: 225px; height: auto;" />
   </div>
   <div>
     <p> This research focuses on the heterogeneity of single-cell Hi-C DNA data to explore the quantitative methods for classifying different types of single cells based on DNA Hi-C data and contact matrices. Large amount of data cleaning and transformation is performed on the original dataset, different methods of dimension reduction are applied, including Principle Component Analysis, t-SNE, UMAP, with clustering techniques such as K-Means performed on lower dimension representations.</p>
