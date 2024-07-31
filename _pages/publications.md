@@ -1,12 +1,10 @@
 ---
 layout: archive
-title: "Publications"
+title: ""
 permalink: /publications/
 author_profile: true
 redirect_from: /research/publications.html
 ---
-
-<h1>Publications</h1>
 
 <div class="publication-entry">
     <h3><a href="https://www.mdpi.com/2075-1680/13/6/401">Enhanced Real-Life Data Modeling with the Modified Burr III Odds Ratio–G Distribution</a></h3>
