@@ -19,7 +19,7 @@ redirect_from: /research.html
 <h1>Multi-agent LLM for Mental Health Diagnosis</h1>
 <p><strong>April 2024 - August 2024, University of Toronto, Toronto, Canada</strong></p>
 
-<img src="path_to_image" alt="LLM" align="left" style="width: 200px; height: auto; margin-right: 20px;" />
+<img src="../images/llm.png" alt="Single Cell Hi-C" align="left" style="width: 175px; height: auto; margin-right: 20px;" />
 
 <p><strong>Description:</strong> This project focuses on the development of a multi-agent large language model (LLM) for mental health diagnosis.</p>
 <p><strong>Supervisors:</strong> Bill Yuanhong Sun, Professor Kang Lee</p>
@@ -29,7 +29,7 @@ redirect_from: /research.html
 <h1>Multi-class Anxiety Prediction Approximation for Long Assessments</h1>
 <p><strong>April 2024 - August 2024, University of Toronto, Toronto, Canada</strong></p>
 
-<img src="path_to_image" alt="LongToShort" align="left" style="width: 200px; height: auto; margin-right: 20px;" />
+<img src="../images/shap_summary.png" alt="Single Cell Hi-C" align="left" style="width: 175px; height: auto; margin-right: 20px;" />
 
 <p><strong>Description:</strong> This project aims to create a multi-class anxiety prediction model to approximate long assessments.</p>
 <p><strong>Supervisors:</strong> Bill Yuanhong Sun, Professor Kang Lee</p>
@@ -39,7 +39,7 @@ redirect_from: /research.html
 <h1>Leaky Emotion in Social Psychology by Reinforcement Learning</h1>
 <p><strong>September 2023 – May 2024, University of Toronto, Toronto, Canada</strong></p>
 
-<img src="path_to_image" alt="Weighted low rank matrix approximation" align="left" style="width: 200px; height: auto; margin-right: 20px;" />
+<img src="../images/gem.png" alt="Single Cell Hi-C" align="left" style="width: 175px; height: auto; margin-right: 20px;" />
 
 <p><strong>Description:</strong> This project researches how personal emotions affect other agents’ behavior in a social setting using reinforcement learning.</p>
 <p><strong>Supervisor:</strong> Professor William Cunningham</p>
