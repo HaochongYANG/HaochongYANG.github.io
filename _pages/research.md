@@ -44,6 +44,7 @@ redirect_from: /research.html
     <div>
         <p>This research introduces a novel approach for predicting multi-class anxiety levels through a machine learning framework designed to handle long assessments. We developed a model that shortens lengthy assessments while maintaining high accuracy. This approach demonstrated robust performance through validations, highlighting potentials for practical application in clinical and research settings. This study shows the importance of using machine learning models to enhance the efficiency and accuracy of mental health analysis.</p>
         <p><em>Supervisors:</em> Bill Yuanhong Sun, Professor. Kang Lee</p>
+        <a href="files/resume.pdf">Poster</a>
     </div>
 </div>
 
