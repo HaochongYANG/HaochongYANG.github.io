@@ -44,7 +44,7 @@ redirect_from: /research.html
     <div>
         <p>This research introduces a novel approach for predicting multi-class anxiety levels through a machine learning framework designed to handle long assessments. We developed a model that shortens lengthy assessments while maintaining high accuracy. This approach demonstrated robust performance through validations, highlighting potentials for practical application in clinical and research settings. This study shows the importance of using machine learning models to enhance the efficiency and accuracy of mental health analysis.</p>
         <p><em>Supervisors:</em> Bill Yuanhong Sun, Professor. Kang Lee</p>
-        <a href="files/resume.pdf">Poster</a>
+        <a href="../files/Rogers SUDS Poster.pdf">Poster</a>
     </div>
 </div>
 
@@ -71,7 +71,7 @@ redirect_from: /research.html
   <div>
     <p> This research presents the modified Burr III Odds Ratio–G distribution, a novel model that integrates odds ratio with Burr III distribution. Focusing on the Burr III Scaled Inverse Odds Ratio–G subclass, this model enhances flexibility and predictive accuracy. The study explores the mathematical properties of the distribution, including hazard rates, quantiles, and moments by proofs. Rigorous simulations confirm the robustness of the model, and its application to datasets demonstrates its efficacy compared to established distributions.</p>
     <p><em>Supervisor:</em> Professor. Shusen Pu</p>
-    <a href="https://www.mdpi.com/2830308">Paper</a>
+    <a href="../files/axioms-13-00401-v2.pdf">Paper</a>
   </div>
 <div>
 
