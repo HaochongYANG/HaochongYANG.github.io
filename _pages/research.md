@@ -7,7 +7,7 @@ redirect_from: /research.html
 ---
 
 <h2>Heterogeneity of single-cell Hi-C DNA data Analysis</h2>
-<p><em>March 2024 - Present, University of Toronto, Toronto, Canada</em></p>
+<p><em>University of Toronto, Toronto, Canada</em></p>
 <div style="display: flex;">
   <div style="position: relative; margin-right: 20px;">
     <img id="staticGif1" src="../images/rotating_cells.png" alt="Single Cell Hi-C" style="max-width: 225px; height: auto;" />
@@ -21,7 +21,7 @@ redirect_from: /research.html
 <hr/>
 
 <h2>Multi-agent LLM for Mental Health Diagnosis</h2>
-<p><em>April 2024 - August 2024, University of Toronto, Toronto, Canada</em></p>
+<p><em>University of Toronto, Toronto, Canada</em></p>
 <div style="display: flex;">
   <div style="position: relative; margin-right: 20px;">
     <img id="staticGif2" src="../images/llm_score.png" alt="llm score" style="max-width: 225px; height: auto;" />
@@ -37,7 +37,7 @@ redirect_from: /research.html
 <hr/>
 
 <h2>Multi-class Anxiety Prediction Approximation for Long Assessments</h2>
-<p><em>April 2024 - August 2024, University of Toronto, Toronto, Canada</em></p>
+<p><em>University of Toronto, Toronto, Canada</em></p>
 
 <div style="display: flex;">
     <img src="../images/shap_summary.png" alt="shap" align="left" style="width: 225px; height: 225px; margin-right: 20px;" />
@@ -51,7 +51,7 @@ redirect_from: /research.html
 <hr/>
 
 <h2>Leaky Emotion in Social Psychology by Reinforcement Learning</h2>
-<p><em>September 2023 – May 2024, University of Toronto, Toronto, Canada</em></p>
+<p><em>University of Toronto, Toronto, Canada</em></p>
 <div style="display: flex;">
   <div style="position: relative; margin-right: 20px;">
     <img id="staticGif3" src="../images/ani.png" alt="llm score" style="max-width: 225px; height: auto;" />
@@ -65,7 +65,7 @@ redirect_from: /research.html
 <hr/>
 
 <h2>Real-Life Data Modeling with the Modified Burr III Odds Ratio–G Distribution</h2>
-<p><em>September 2023 – May 2024, University of West Florida, Pensacola, USA</em></p>
+<p><em>University of West Florida, Pensacola, USA</em></p>
 <div style="display: flex;">
   <img src="../images/burrIII.png" alt="BurrIII" align="left" style="width: 225px; height: 225px; margin-right: 20px;" />
   <div>
