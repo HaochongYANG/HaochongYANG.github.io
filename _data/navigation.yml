@@ -23,7 +23,7 @@ main:
 
     
   - title: "Curriculum vitae"
-    url: ../files/CV.pdf
+    url: /files/CV.pdf
   
   # - title: "Transcript"
   #   url: /transcript/
