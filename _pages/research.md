@@ -31,7 +31,7 @@ redirect_from: /research.html
   <p> This project involves the development of a multi-agent framework using LLMs to simulate a therapist's role in mental health diagnosis. The goal is to establish a framework that can mimic a therapist by interacting with users and analyzing responses to provide insights into their mental health. My contributions to this project included working on both the backend and frontend development, as well as the prompt engineering for the models. I also conducted experiments to evaluate the performance of the models and the overall system.</p>
 
   <p><em>Supervisors:</em> Bill Yuanhong Sun, Professor. Kang Lee</p>
-  <a href="https://drive.google.com/file/d/1pGTPmJ7qZWFp33U70Gwz5icv3kAia4kr/view?usp=drive_link">Demo Video</a>
+  <a href="">Demo Video (Public demo will be released soon.)</a>
   </div>
 </div>
 <hr/>
